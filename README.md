@@ -2,7 +2,7 @@
 
 Online photography course — a Tilda landing page.
 
-**Live:** https://erix319.github.io/tilda-iphone-course/
+**Live:** https://pafuluofu-dev.github.io/tilda-iphone-course/
 
 ## About
 
